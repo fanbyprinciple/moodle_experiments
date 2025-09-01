@@ -45,3 +45,10 @@ prompt
 
 in moodle I want to orchestrate test taking in multiple subjects in which each may have individual units and their associated quizzes. Now this moodle will be hosted for multiple organisations with multiple employees. They all have to undertake different subjects as per the employee specification. SO when a new organisation comes to give an exam, it should have a mechanism to input its documents and enroll its employees to different subjects and quizzes related to subject. I want to modify moodle platform to achieve this - ability to input documents at a place for examiner by the organisation and ability to add same subject to different employees based on their specialisation. help me flesh out this though process use diagrams if necessary, give me a concrete action plan how to go about doing this. I want a beginner firendly explanation who just knows a little bit about moodle and want sot build it using free tools.further i need simple photo based free plugins for proctoring as well. I am desigining this for my organisation so i want it to be robust, efficient and future proof. please validate my request and tell
 
+# Taking from a video
+
+1. install xampp
+install mysql, perl, phpmyadmin
+
+folder htdocs > add moodle file 
+
